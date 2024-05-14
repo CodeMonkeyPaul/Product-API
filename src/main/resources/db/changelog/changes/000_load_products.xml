@@ -1,0 +1,29 @@
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+
+    <changeSet id="018f6273-b640-7915-b9da-d237bc193153" author="Paul">
+        <createTable tableName="product">
+            <column name="id" type="bigint" autoIncrement="true">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="name" type="varchar(255)"/>
+            <column name="category" type="varchar(255)"/>
+            <column name="location" type="varchar(255)"/>
+            <column name="price" type="decimal(10,2)"/>
+            <column name="discounted_price" type="decimal(10,2)"/>
+            <column name="currency" type="varchar(3)"/>
+            <column name="description" type="text"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet id="2" author="Paul">
+
+        <!-- Developer's note: it was at this moment I discovered Liquibase can't load from JSON ... -->
+        <loadData
+                file="classpath:db/ProductExamples.csv"
+                tableName="product">
+        </loadData>
+    </changeSet>
+
+</databaseChangeLog>

@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "name": "Luxury Beachfront Resort",
+    "category": "Hotel",
+    "location": "Maldives",
+    "price": 1000.00,
+    "currency": "USD",
+    "description": "Experience ultimate luxury in a beachfront resort with private villas and personalized service."
+  },
+  {
+    "id": 2,
+    "name": "City Center Boutique Hotel",
+    "category": "Hotel",
+    "location": "Paris",
+    "price": 250.00,
+    "currency": "EUR",
+    "description": "Charming boutique hotel located in the heart of Paris, offering stylish rooms and modern amenities."
+  },
+  {
+    "id": 3,
+    "name": "Mountain Cabin Retreat",
+    "category": "Cabin",
+    "location": "Swiss Alps",
+    "price": 300.00,
+    "currency": "CHF",
+    "description": "Escape to a cozy cabin nestled in the Swiss Alps, surrounded by breathtaking mountain views."
+  },
+  {
+    "id": 4,
+    "name": "Luxury Safari Lodge",
+    "category": "Lodge",
+    "location": "Serengeti National Park",
+    "price": 1500.00,
+    "discounted_price" : 1400.00,
+    "currency": "USD",
+    "description": "Embark on an unforgettable safari adventure in a luxury lodge overlooking the vast Serengeti plains."
+  },
+  {
+    "id": 5,
+    "name": "Private Island Villa",
+    "category": "Villa",
+    "location": "Bahamas",
+    "price": 5000.00,
+    "currency": "USD",
+    "description": "Indulge in the ultimate luxury of a private island villa in the crystal-clear waters of the Bahamas."
+  },
+  {
+    "id": 6,
+    "name": "Historic Bed and Breakfast",
+    "category": "Bed and Breakfast",
+    "location": "Rome",
+    "price": 150.00,
+    "currency": "EUR",
+    "description": "Experience the charm of Rome in a historic bed and breakfast located near iconic landmarks."
+  },
+  {
+    "id": 7,
+    "name": "Family-Friendly Resort",
+    "category": "Resort",
+    "location": "Orlando",
+    "price": 300.00,
+    "currency": "USD",
+    "description": "Fun-filled resort in Orlando offering spacious accommodations and exciting amenities for families."
+  },
+  {
+    "id": 8,
+    "name": "Mountain Ski Chalet",
+    "category": "Chalet",
+    "location": "Aspen",
+    "price": 800.00,
+    "currency": "USD",
+    "description": "Cozy ski chalet nestled in the mountains of Aspen, perfect for winter sports enthusiasts."
+  },
+  {
+    "id": 9,
+    "name": "Budget Hostel",
+    "category": "Hostel",
+    "location": "Bangkok",
+    "price": 20.00,
+    "currency": "USD",
+    "description": "Affordable hostel in the vibrant city of Bangkok, offering comfortable dormitory-style accommodations."
+  },
+  {
+    "id": 10,
+    "name": "Seaside Boutique Hotel",
+    "category": "Hotel",
+    "location": "Amalfi Coast",
+    "price": 350.00,
+    "discounted_price" : 275.00,
+    "currency": "EUR",
+    "description": "Experience luxury by the sea at this boutique hotel on the stunning Amalfi Coast."
+  },
+  {
+    "id": 11,
+    "name": "Rustic Mountain Lodge",
+    "category": "Lodge",
+    "location": "Rocky Mountains",
+    "price": 600.00,
+    "currency": "USD",
+    "description": "Get back to nature and unwind in a cozy lodge nestled in the breathtaking Rocky Mountains."
+  },
+  {
+    "id": 12,
+    "name": "Tropical Beach Bungalow",
+    "category": "Bungalow",
+    "location": "Hawaii",
+    "price": 450.00,
+    "currency": "USD",
+    "description": "Escape to paradise and relax in a charming beach bungalow on the beautiful islands of Hawaii."
+  },
+  {
+    "id": 13,
+    "name": "Riverside Cabin Retreat",
+    "category": "Cabin",
+    "location": "Canadian Rockies",
+    "price": 250.00,
+    "currency": "CAD",
+    "description": "Find peace and tranquility in a secluded cabin retreat along the stunning riverside of the Canadian Rockies."
+  },
+  {
+    "id": 14,
+    "name": "Urban Loft Apartment",
+    "category": "Apartment",
+    "location": "New York City",
+    "price": 200.00,
+    "currency": "USD",
+    "description": "Live like a local in a stylish loft apartment in the heart of bustling New York City."
+  },
+  {
+    "id": 15,
+    "name": "Beachfront Condo",
+    "category": "Condo",
+    "location": "Miami",
+    "price": 300.00,
+    "currency": "USD",
+    "description": "Wake up to breathtaking ocean views in a luxurious beachfront condo in vibrant Miami."
+  },
+  {
+    "id": 16,
+    "name": "Charming Countryside Cottage",
+    "category": "Cottage",
+    "location": "Cotswolds",
+    "price": 150.00,
+    "currency": "GBP",
+    "description": "Escape the hustle and bustle and unwind in a charming countryside cottage in the picturesque Cotswolds."
+  },
+  {
+    "id": 17,
+    "name": "Historic Manor House",
+    "category": "Manor House",
+    "location": "Scotland",
+    "price": 1000.00,
+    "discounted_price" : 950.00,
+    "currency": "GBP",
+    "description": "Step back in time and experience the grandeur of a historic manor house in the stunning Scottish countryside."
+  },
+  {
+    "id": 18,
+    "name": "Luxury Ski Resort",
+    "category": "Resort",
+    "location": "Whistler",
+    "price": 1200.00,
+    "currency": "CAD",
+    "description": "Indulge in world-class skiing and luxurious amenities at a top-rated ski resort in breathtaking Whistler."
+  },
+  {
+    "id": 19,
+    "name": "Rooftop Penthouse Suite",
+    "category": "Suite",
+    "location": "Sydney",
+    "price": 1500.00,
+    "currency": "AUD",
+    "description": "Enjoy panoramic views of the iconic Sydney skyline from a lavish rooftop penthouse suite."
+  },
+  {
+    "id": 20,
+    "name": "Coastal Beach House",
+    "category": "House",
+    "location": "California",
+    "price": 800.00,
+    "currency": "USD",
+    "description": "Escape to a coastal paradise and relax in a spacious beach house along the stunning California coastline."
+  },
+  {
+    "id": 21,
+    "name": "Quaint Lakeside Cabin",
+    "category": "Cabin",
+    "location": "Lake District",
+    "price": 200.00,
+    "currency": "GBP",
+    "description": "Experience the beauty of the Lake District in a quaint lakeside cabin surrounded by nature's tranquility."
+  },
+  {
+    "id": 22,
+    "name": "Rustic Farmhouse Retreat",
+    "category": "Farmhouse",
+    "location": "Tuscany",
+    "price": 400.00,
+    "currency": "EUR",
+    "description": "Immerse yourself in the charm of the Tuscan countryside in a rustic farmhouse retreat."
+  },
+  {
+    "id": 23,
+    "name": "Luxury Spa Resort",
+    "category": "Resort",
+    "location": "Bali",
+    "price": 1800.00,
+    "currency": "USD",
+    "description": "Rejuvenate your body and soul at a luxurious spa resort nestled in the serene landscapes of Bali."
+  },
+  {
+    "id": 24,
+    "name": "Historic Castle Hotel",
+    "category": "Hotel",
+    "location": "Scotland",
+    "price": 1500.00,
+    "discounted_price" : 1250.00,
+    "currency": "GBP",
+    "description": "Live like royalty in a historic castle hotel set amidst the breathtaking landscapes of Scotland."
+  },
+  {
+    "id": 25,
+    "name": "Safari Tent Experience",
+    "category": "Tent",
+    "location": "Kruger National Park",
+    "price": 300.00,
+    "discounted_price" : 200.00,
+    "currency": "ZAR",
+    "description": "Embark on an unforgettable safari adventure and sleep under the stars in a luxury safari tent."
+  }
+]
